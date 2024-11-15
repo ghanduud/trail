@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\omarg\OneDrive\Desktop\trail\src\main.cpp(13,81): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\trail\src\main.cpp(13,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\trail\src\main.cpp(13,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\trail\src\main.cpp(13,30): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\trail\src\main.cpp(42,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  sfml_tasks.vcxproj -> C:\Users\omarg\OneDrive\Desktop\trail\bin\Debug\sfml_tasks.exe
